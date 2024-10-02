@@ -11,8 +11,8 @@ Both The output data in csv format and  the analysis summary in txt format have 
 CrewAI framework adopted to implement the Crew, custom and langchain tools have been implemented/integrated.<br>
 Under development-to join the [Charming Data Community](https://charming-data.circle.so/) Project initiative <br>
 
-
-
+## Crew Schema showing Agents, Tasks, Tools and outputs
+![schemaCrew](https://github.com/user-attachments/assets/c32b9ca4-e8b8-4d47-a350-24f810011a7c)
 
 ## VIDEO TO BE UPDATED!!!!!
 
