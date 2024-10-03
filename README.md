@@ -14,7 +14,8 @@ Under development-to join the [Charming Data Community](https://charming-data.ci
 ## Crew Schema showing Agents, Tasks, Tools and outputs
 ![schemaCrew](https://github.com/user-attachments/assets/c32b9ca4-e8b8-4d47-a350-24f810011a7c)
 
-## VIDEO TO BE UPDATED!!!!!
+## Video Demo
+[![Watch the video](https://img.youtube.com/vi/VyWSYfQnAIA/0.jpg)](https://www.youtube.com/watch?v=VyWSYfQnAIA)
 
 ## Main App features
 1. Dash App design
